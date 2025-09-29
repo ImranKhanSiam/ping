@@ -18,7 +18,7 @@ jobs:
           # === CONFIGURE THIS ===
           TARGET_URL="www.imrankhan.linkpc.net" 
           # JITTER maximum (in seconds). Keep <=30 to avoid hitting extra billed minute.
-          MAX_JITTER=30
+          MAX_JITTER=10
           # ======================
 
           # small list of common browser User-Agents (rotate)
