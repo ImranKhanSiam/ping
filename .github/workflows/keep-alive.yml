@@ -3,7 +3,7 @@ name: Searching portfolio
 # Schedule: every 22 minutes (approx 1950 runs/month -> ~1950 minutes)
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch: {}
 
 jobs:
