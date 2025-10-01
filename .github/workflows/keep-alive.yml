@@ -2,7 +2,7 @@ name: Searching portfolio
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   repository_dispatch:
 
