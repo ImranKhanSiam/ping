@@ -16,7 +16,8 @@ jobs:
           set -euo pipefail
 
           # === CONFIGURE THIS ===
-          TARGET_URL="https://www.imrankhan.linkpc.net"
+          TARGET_URL="https://django-website-3-415m.onrender.com"
+          
           MAX_JITTER=10
           # ======================
 
